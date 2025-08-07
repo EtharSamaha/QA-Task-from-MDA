@@ -132,6 +132,19 @@ test.afterAll(async () => {
 
 ---
 
+## 🎥 Demo: Test Run Video
+
+Watch a full run of the tests including:
+- Uploading PDFs to Google Drive
+- Opening the file in a browser tab
+- Downloading the file
+- Checking PDF print permissions
+
+
+https://github.com/user-attachments/assets/1da092a6-c0f0-463c-ba0d-4c03e1f9d6bf
+
+
+
 ## 📌 Notes
 - The tests support **all Playwright browsers**: Chromium, Firefox, and WebKit.
 - The test automation supports both **password-protected** and **unprotected** PDFs.
